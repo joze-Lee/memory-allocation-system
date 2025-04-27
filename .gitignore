@@ -1,0 +1,31 @@
+# Ignore object files
+*.o
+
+# Ignore binary files
+*.so
+
+# Ignore compiled and generated files
+*.bc
+
+# Ignore executables
+mdriver
+libMallocInstrumented.so
+
+# Ignore debug files
+debug.txt
+
+# Ignore backup files
+*~
+
+# Ignore build directories
+bin/
+
+# Ignore trace files
+traces/
+
+# Ignore tree examples
+tree.3
+queue.3
+
+# Ignore temporary files
+*.swp
